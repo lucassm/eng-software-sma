@@ -110,12 +110,12 @@ A UML, Linguagem Unificada de projetos orientados a objetos é uma linguagem pad
 
 ## Diagrama de Classes
 
-![Diagrama de Classes](Figuras/c2.svg)
+![Diagrama de Classes](https://cdn.rawgit.com/lucassm/eng-software-sma/eb191acd/slides/markdown/Figuras/c2.svg)
 
 ## Diagrama de Atividades
 
-![Diagrama de Classes](Figuras/c3.svg)
+![Diagrama de Classes](https://cdn.rawgit.com/lucassm/eng-software-sma/eb191acd/slides/markdown/Figuras/c3.svg)
 
 ## Diagrama de Caso de Uso
 
-![Diagrama de Classes](Figuras/c4.svg)
+![Diagrama de Classes](https://cdn.rawgit.com/lucassm/eng-software-sma/eb191acd/slides/markdown/Figuras/c4.svg)
