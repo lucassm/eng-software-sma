@@ -1,8 +1,6 @@
-% Engenharia de Software e Sistemas Multiagentes
-% Lucas S Melo (Material baseado nos slides do professor Marques)    
-% Abril de 2017
+# Engenharia de Software e Sistemas Multiagentes
 
-## Engenharia de Software e Sistemas Multiagentes
+Tópicos a serem aboradados durante a disciplina:
 
 - Conceitos de engenharia de software
 - Programação orientada o objetos
@@ -147,7 +145,7 @@ Podem ser baseados em aspectos prescritivos ou evolucionários
 
 ## Processo Cascata
 
-![Processo Cascata](Figuras/c1.png){ width=3.5in }
+![Processo Cascata](Figuras/b1.png){ width=3.5in }
 
 
 ## Processo Cascata
@@ -158,7 +156,7 @@ Podem ser baseados em aspectos prescritivos ou evolucionários
 
 ## Modelo V
 
-![Modelo V](Figuras/c3.png){ width=3.5in }
+![Modelo V](Figuras/b3.png){ width=3.5in }
 
 
 ## Modelo V
@@ -169,7 +167,7 @@ Testes de mais alto nível são realizados se o atual for bem sucedido
 
 ## Processo Evolutivo
 
-![Processo Evolutivo](Figuras/c2.png){ width=3.5in }
+![Processo Evolutivo](Figuras/b2.png){ width=3.5in }
 
 ## Processo Evolutivo
 
@@ -181,7 +179,7 @@ desenvolvido e incrementado gradualmente
 
 ## Processo Unificado
 
-![Processo Unificado](Figuras/c4.png){ width=3.5in }
+![Processo Unificado](Figuras/b4.png){ width=3.5in }
 
 ## Processo Unificado
 
@@ -194,7 +192,7 @@ de software.
 
 ## Extreme Programming
 
-![Extreme Programming](Figuras/c5.png){ width=3.5in }
+![Extreme Programming](Figuras/b5.png){ width=3.5in }
 
 ## Extreme Programming
 
