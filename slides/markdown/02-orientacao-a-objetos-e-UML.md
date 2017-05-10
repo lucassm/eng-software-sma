@@ -104,18 +104,27 @@ A UML, Linguagem Unificada de projetos orientados a objetos é uma linguagem pad
 - provê uma forma concreta para a compreensão das pessoas e para ser manipulada pelas máquinas.
 - É independente das linguagens de programação.
 
-## Diagrama de Classes
-
-![Diagrama de Classes](https://cdn.rawgit.com/lucassm/eng-software-sma/c3e1a492/slides/markdown/Figuras/c1.svg)
-
-## Diagrama de Classes
-
-![Diagrama de Classes](https://cdn.rawgit.com/lucassm/eng-software-sma/eb191acd/slides/markdown/Figuras/c2.svg)
-
-## Diagrama de Atividades
-
-![Diagrama de Classes](https://cdn.rawgit.com/lucassm/eng-software-sma/eb191acd/slides/markdown/Figuras/c3.svg)
-
 ## Diagrama de Caso de Uso
 
-![Diagrama de Classes](https://cdn.rawgit.com/lucassm/eng-software-sma/eb191acd/slides/markdown/Figuras/c4.svg)
+![Diagrama de Casos de Uso](https://cdn.rawgit.com/lucassm/eng-software-sma/eb191acd/slides/markdown/Figuras/c4.png)
+
+## Diagrama de Atividades Geral
+
+![Diagrama de Atividades](Figuras/c3.png)
+
+## Diagrama de Atividades Específico
+
+![Diagrama de Atividades](Figuras/c5.png)
+
+## Diagrama de Classes
+
+![Diagrama de Classes](https://cdn.rawgit.com/lucassm/eng-software-sma/c3e1a492/slides/markdown/Figuras/c1.png)
+
+## Diagrama de Classes
+
+![Diagrama de Classes](https://cdn.rawgit.com/lucassm/eng-software-sma/eb191acd/slides/markdown/Figuras/c2.png)
+
+## Diagrama de Sequência
+
+![Diagrama de Sequencia](Figuras/c6.png)
+

@@ -145,7 +145,7 @@ Podem ser baseados em aspectos prescritivos ou evolucionários
 
 ## Processo Cascata
 
-![Processo Cascata](Figuras/b1.png){ width=3.5in }
+![Processo Cascata](Figuras/b1.png)
 
 
 ## Processo Cascata
@@ -156,7 +156,7 @@ Podem ser baseados em aspectos prescritivos ou evolucionários
 
 ## Modelo V
 
-![Modelo V](Figuras/b3.png){ width=3.5in }
+![Modelo V](Figuras/b3.png)
 
 
 ## Modelo V
@@ -167,7 +167,7 @@ Testes de mais alto nível são realizados se o atual for bem sucedido
 
 ## Processo Evolutivo
 
-![Processo Evolutivo](Figuras/b2.png){ width=3.5in }
+![Processo Evolutivo](Figuras/b2.png)
 
 ## Processo Evolutivo
 
@@ -179,7 +179,7 @@ desenvolvido e incrementado gradualmente
 
 ## Processo Unificado
 
-![Processo Unificado](Figuras/b4.png){ width=3.5in }
+![Processo Unificado](Figuras/b4.png)
 
 ## Processo Unificado
 
@@ -192,7 +192,7 @@ de software.
 
 ## Extreme Programming
 
-![Extreme Programming](Figuras/b5.png){ width=3.5in }
+![Extreme Programming](Figuras/b5.png)
 
 ## Extreme Programming
 
